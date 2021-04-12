@@ -1,2 +1,4 @@
 # MyFirst_WebPage
-Web page on Fitness
+My First Web page "Max-Fit"
+Check it out on https://ajoe12.github.io/MyFirst_WebPage/ 
+This project contains various features based on HTML, Css and Bootstrap : Carousels, navigation bar, register and login forms ...
